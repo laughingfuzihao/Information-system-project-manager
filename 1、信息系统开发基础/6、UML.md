@@ -20,7 +20,7 @@
 
 ## 二、分类
 
-![image-20210322155638127](../picture/image-20210322155638127.png)
+![image-20210322155638127](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322155638127.png)
 
 
 
@@ -28,7 +28,7 @@
 
 ###  1、类图
 
-![image-20210322160556963](../picture/image-20210322160556963.png)
+![image-20210322160556963](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322160556963.png)
 
 
 
@@ -43,13 +43,13 @@
 
 ### 2、对象图
 
-![image-20210322161235077](../picture/image-20210322161235077.png)
+![image-20210322161235077](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322161235077.png)
 
 
 
 ### 3、构件图
 
-![image-20210322160826109](../picture/image-20210322160826109.png)
+![image-20210322160826109](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322160826109.png)
 
 
 
@@ -57,13 +57,13 @@
 
 ### 4、用例图
 
-![image-20210322160911446](../picture/image-20210322160911446.png)
+![image-20210322160911446](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322160911446.png)
 
 
 
 ### 5、状态图
 
-![image-20210322160943612](../picture/image-20210322160943612.png)
+![image-20210322160943612](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322160943612.png)
 
 
 
@@ -75,13 +75,13 @@
 
 
 
-![image-20210322161348707](../picture/image-20210322161348707.png)
+![image-20210322161348707](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322161348707.png)
 
 
 
 ### 7、顺序图
 
-![image-20210322161405382](../picture/image-20210322161405382.png)
+![image-20210322161405382](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322161405382.png)
 
 
 
@@ -89,7 +89,7 @@
 
 ### 8、协作图（通信图） 强调于发消息
 
-![image-20210322161434589](../picture/image-20210322161434589.png)
+![image-20210322161434589](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322161434589.png)
 
 ### 9、部署图
 
@@ -97,7 +97,7 @@
 
 
 
-![image-20210322161444244](../picture/image-20210322161444244.png)
+![image-20210322161444244](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322161444244.png)
 
 
 
@@ -125,7 +125,7 @@
 
 
 
-![image-20210322162307847](../picture/image-20210322162307847.png)
+![image-20210322162307847](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210322162307847.png)
 
 
 
