@@ -58,7 +58,7 @@ BSP对于大型信息系统**而言是“自上而下”的系统规划，“自
 
 
 
-![image-20210224174744708](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210224174744708.png)
+![image-20210224174744708](../picture/image-20210224174744708.png)
 
 
 
@@ -84,7 +84,7 @@ BSP对于大型信息系统**而言是“自上而下”的系统规划，“自
 
 #### 指明决策人
 
-![image-20210322141930328](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210322141930328.png)
+![image-20210322141930328](../picture/image-20210322141930328.png)
 
 
 
@@ -92,7 +92,7 @@ BSP对于大型信息系统**而言是“自上而下”的系统规划，“自
 
 #### 归纳数据类
 
-![image-20210322142235199](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210322142235199.png)
+![image-20210322142235199](../picture/image-20210322142235199.png)
 
 
 
@@ -100,7 +100,7 @@ BSP对于大型信息系统**而言是“自上而下”的系统规划，“自
 
 #### 企业过程与数据类关系
 
-![image-20210322142408062](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210322142408062.png)
+![image-20210322142408062](../picture/image-20210322142408062.png)
 
 
 
@@ -110,7 +110,7 @@ BSP对于大型信息系统**而言是“自上而下”的系统规划，“自
 
 #### 识别企业过程。分析每个过程的输入输出。与R/D矩阵比较调整，形成系统数据类，
 
-![image-20210322142929226](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210322142929226.png)
+![image-20210322142929226](../picture/image-20210322142929226.png)
 
 
 
