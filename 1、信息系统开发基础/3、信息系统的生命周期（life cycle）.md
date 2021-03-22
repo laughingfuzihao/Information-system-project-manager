@@ -1,0 +1,48 @@
+# 信息系统的生命周期
+
+## 一、生命周期的五大阶段
+
+![image-20210225103110431](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210225103110431.png)
+
+
+
+
+
+## 二、产出
+
+![image-20210225104528829](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210225104528829.png)
+
+
+
+
+
+注意区别 **系统设计任务书（系统规划）**和 **系统设计说明书（系统设计）**
+
+
+
+## 三、四阶段划分方法
+
+![image-20210225105006452](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210225105006452.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
