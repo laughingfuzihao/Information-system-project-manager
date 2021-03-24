@@ -2,7 +2,7 @@
 
 ## 一、生命周期的五大阶段
 
-![image-20210225103110431](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210225103110431.png)
+![image-20210225103110431](../picture/image-20210225103110431.png)
 
 
 
@@ -10,7 +10,7 @@
 
 ## 二、产出
 
-![image-20210225104528829](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210225104528829.png)
+![image-20210225104528829](../picture/image-20210225104528829.png)
 
 
 
@@ -22,7 +22,7 @@
 
 ## 三、四阶段划分方法
 
-![image-20210225105006452](https://github.com/laughingfuzihao/Information-system-project-manager/blob/master/picture/image-20210225105006452.png)
+![image-20210225105006452](../picture/image-20210225105006452.png)
 
 
 
